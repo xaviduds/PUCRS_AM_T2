@@ -20,7 +20,7 @@ Ideias alternativas podem ser propostas e debatidas com o professor. É esperado
 
 • Demonstrar o algoritmo funcionando durante a etapa de perguntas e respostas Como ideias de aplicações em visão computacional: Identificação de rostos sem máscara, identificação de dígitos escritos a mão, identificação de formas (triângulos, círculos e quadrados) desenhados a mão, identificação de animais em imagens etc. Como ideias para aplicações de NLP: Análise de sentimento em textos de redes sociais, tradução de máquina, identificação de entidades nomeadas, correção ortográfica automática, sumarização de texto, identificação de fake News etc.
 
-# Entrega:
+# Entrega: 18/06
 
 • Número de Integrantes: de 2 a 5.
 
