@@ -1,0 +1,11 @@
+Trabalho 2 Aprendizado de Máquina PUCRS 23/1
+
+Integrantes:
+
+ 
+
+ Eduardo Xavier (19103394),
+ 
+
+
+Como instalar as bibliotecas necessárias e replicar os resultados

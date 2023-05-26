@@ -5,6 +5,9 @@
 Docs do ultralytics
 https://docs.ultralytics.com/tasks/
 
+Doc para segmentation
+https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/
+
 Colab demonstrando funcionalidades e implementação do YOLO https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb#scrollTo=WQPtK1QYVaD_
 
 Github do ultralytics
