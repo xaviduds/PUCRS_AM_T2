@@ -2,7 +2,9 @@
 
 No primeiro trabalho, o foco foi analisar sistemas de aprendizado de máquina que trabalhassem com dados estruturados. O trabalho T2 consistirá em elaborar um projeto que trabalhe com dados não estruturados.
 Existem duas temáticas possíveis de trabalho: Processamento de Linguagem Natural, ou Visão Computacional.
-Ideias alternativas podem ser propostas e debatidas com o professor. É esperado que o aluno:
+Ideias alternativas podem ser propostas e debatidas com o professor.
+
+É esperado que o aluno:
 
 • Identifique um problema que pode ser solucionado com aprendizado de máquina
 
