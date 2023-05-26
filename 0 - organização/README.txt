@@ -1,4 +1,4 @@
-Trabalho 2 Aprendizado de Máquina PUCRS 23/1
+Trabalho 2 de Aprendizado de Máquina, PUCRS, 23/1
 
 Integrantes:
 
