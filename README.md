@@ -18,7 +18,11 @@ Ideias alternativas podem ser propostas e debatidas com o professor. É esperado
 
 • Traga exemplos de casos em que a solução possui facilidade para resolver e casos em que a solução possua dificuldade
 
-• Demonstrar o algoritmo funcionando durante a etapa de perguntas e respostas Como ideias de aplicações em visão computacional: Identificação de rostos sem máscara, identificação de dígitos escritos a mão, identificação de formas (triângulos, círculos e quadrados) desenhados a mão, identificação de animais em imagens etc. Como ideias para aplicações de NLP: Análise de sentimento em textos de redes sociais, tradução de máquina, identificação de entidades nomeadas, correção ortográfica automática, sumarização de texto, identificação de fake News etc.
+• Demonstrar o algoritmo funcionando durante a etapa de perguntas e respostas
+
+Como ideias de aplicações em visão computacional: Identificação de rostos sem máscara, identificação de dígitos escritos a mão, identificação de formas (triângulos, círculos e quadrados) desenhados a mão, identificação de animais em imagens etc.
+
+Como ideias para aplicações de NLP: Análise de sentimento em textos de redes sociais, tradução de máquina, identificação de entidades nomeadas, correção ortográfica automática, sumarização de texto, identificação de fake News etc.
 
 # Entrega: 18/06
 
@@ -41,4 +45,5 @@ Ideias alternativas podem ser propostas e debatidas com o professor. É esperado
 - II. Delimitação do Desenvolvimento: o que foi aproveitado de código fonte de repositórios públicos e o que foi implementado pelo grupo. É necessário deixar essa distinção bem especificada.
 
 - III. Resultados e Conclusão: Seção que explica os resultados atingidos pelo grupo e possíveis melhorias que poderiam ser implementadas no trabalho.
-    IV. Referências: Bibliografia em formato ABNT
+
+- IV. Referências: Bibliografia em formato ABNT
