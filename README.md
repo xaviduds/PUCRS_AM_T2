@@ -49,3 +49,8 @@ Como ideias para aplicações de NLP: Análise de sentimento em textos de redes 
 - III. Resultados e Conclusão: Seção que explica os resultados atingidos pelo grupo e possíveis melhorias que poderiam ser implementadas no trabalho.
 
 - IV. Referências: Bibliografia em formato ABNT
+
+
+Links:
+- https://agmanic.com/detect-bottle-fill-level-with-50-lines-of-python/
+- 
