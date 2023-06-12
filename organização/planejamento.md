@@ -10,6 +10,7 @@
 # Observações
 
 Eduardo: quando faço segmentação com modelo nano (n) fica uma parte da garrafa de fora, se formos analisar a 'fullness' dela esses pixels não vão ser contados. Podemos usar um modelo maior que o nano mas vai ficar mais pesado, lento. To rodando localmente, pode não haver esse problema no Colab.
+Eduardo: vamos usar as fotos segmentadas pelo YOLOv8n-seg.pt. Pegamos a binary mask dessa foto e usamos 50 Linhas De Python pra computar dentre os pixels da garrafa os pixels de líquido.
 
 # Estrutura de arquivos e folders:
 
