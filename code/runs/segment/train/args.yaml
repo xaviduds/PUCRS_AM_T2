@@ -1,6 +1,6 @@
 task: segment
 mode: train
-model: ../2 - models/yolov8n-seg.pt
+model: ../models/yolov8n-seg.pt
 data: coco128-seg.yaml
 epochs: 3
 patience: 50
@@ -15,7 +15,7 @@ project: null
 name: null
 exist_ok: false
 pretrained: false
-optimizer: SGD
+optimizer: auto
 verbose: true
 seed: 0
 deterministic: true
@@ -25,6 +25,8 @@ cos_lr: false
 close_mosaic: 0
 resume: false
 amp: true
+fraction: 1.0
+profile: false
 overlap_mask: true
 mask_ratio: 4
 dropout: 0.0
@@ -92,4 +94,4 @@ copy_paste: 0.0
 cfg: null
 v5loader: false
 tracker: botsort.yaml
-save_dir: runs/segment/train
+save_dir: runs\segment\train
